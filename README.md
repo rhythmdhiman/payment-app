@@ -1,2 +1,2 @@
 # payment_app
-A graphical app made with flutter to manage daily payment activities.
+a graphical app made with flutter to manage payment activities
